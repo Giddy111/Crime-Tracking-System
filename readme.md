@@ -17,5 +17,6 @@
 6. Import crms_db_db.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/Crime Tracking System/admin to navigate to the admin login page
-Username: admin
-Password: admin123
+
+- Username: admin
+- Password: admin123
