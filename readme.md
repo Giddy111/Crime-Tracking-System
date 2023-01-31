@@ -1,6 +1,6 @@
-1.XAMPP
+1. XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ 
+2. "TEXT EDITOR" NOTEPAD++ 
 
 3. Crime Tracking System
 
